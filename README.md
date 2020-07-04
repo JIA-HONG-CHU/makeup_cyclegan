@@ -1,5 +1,5 @@
 # CycleGAN in PyTorch
-I use the cyclegan code provided by https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.It allows users who have never applied makeup before to easily try other people's makeup without spending time learning makeup techniques and money on cosmetics, and then make a reference for their own makeup style.
+I use the cyclegan code provided by https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix .It allows users who have never applied makeup before to easily try other people's makeup without spending time learning makeup techniques and money on cosmetics, and then make a reference for their own makeup style.
 
 BTW:I use the Bilinear_interportation+Reflection2d+Conv2d instead of Con2dTranspose in the generator to prevent the checkerboard problem.
 
